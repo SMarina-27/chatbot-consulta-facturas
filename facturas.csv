@@ -1,0 +1,8 @@
+nro_factura,cuit_proveedor,descripcion,monto,fecha_emision,estado,fecha_pago,motivo_rechazo
+1001,30111111111,Ladrillo,45000,01/05/2025,PAGADA,05/06/2025,
+1002,30111111111,Herramientas menores,12500,15/05/2025,PENDIENTE,,
+1003,30222222222,Resmas de hoja A4,8200,20/05/2025,PAGADA,10/06/2025,
+1004,30111111111,Cemento,31000,22/05/2025,RECHAZADA,,Documentación incompleta
+1005,20333333333,Mantenimiento equipos informáticos,18750,28/05/2025,PENDIENTE,,
+1006,20333333333,Instalación software,55000,30/05/2025,PAGADA,12/06/2025,
+1007,30222222222,Papelería y útiles oficina,3400,02/06/2025,RECHAZADA,,Mercaderia Faltante
