@@ -12,6 +12,8 @@ Chatbot simulado que permite a un proveedor consultar el estado de pago de sus f
 
 ## Contenido del repositorio
 - BPMN.png: diagrama BPMN del proceso (flujo "to-be")
+- bpmn-corregido.png: diagrama BPMN del proceso corregido (flujo "to-be")
+- bpmn_as-is.png:  diagrama BPMN del proceso actual (flujo "as-is")
 - diccionario_datos_chatbot.xlsx: diccionario de datos que maneja el sistema
 - maquina_estados_chatbot_consulta_proveedores.xlsx: máquina de estados del bot
 - base_datos_simulada.xlsx: base de datos simulada que contiene las hojas de cálculo "Proveedores" y "facturas"
